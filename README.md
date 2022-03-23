@@ -3,13 +3,13 @@
 
 ** F-SUB 3 BUTTON **
 
-**KALO GAPAHAM KESITU TELE TUH COPY USNAME. TERUS KE PENCARIAN. TERUS TANYA DI SITU YA AJG [ @pantekyks ](https://www.telegram.dog/pantekyks)**
+**KALO GAPAHAM KESITU TELE TUH COPY USNAME. TERUS KE PENCARIAN. TERUS TANYA DI SITU YA AJG [ @LynxSupports ](https://www.telegram.dog/LynxSupports)**
 
 ### Features
 **INI FILE SHARING 3 BUTTON**
 
 #### Deploy on Heroku
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ReyyNada/Reyy-XFsub-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-Green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Lynxhamster/Lynx-Fsub"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-Purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ### Admin Commands
 
