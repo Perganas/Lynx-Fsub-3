@@ -41,3 +41,4 @@ src="https://img.shields.io/badge/Deploy%20To%20Bot%20Heroku-blue?style=flat&log
 * `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
 * `FORCE_SUB_CHANNEL1` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 * `FORCE_SUB_CHANNEL2` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
+* `FORCE_SUB_CHANNEL3` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
