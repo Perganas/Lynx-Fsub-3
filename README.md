@@ -3,7 +3,7 @@
 
 ** F-SUB 3 BUTTON **
 
-**KALO GAPAHAM KESITU TELE TUH COPY USNAME. TERUS KE PENCARIAN. TERUS TANYA DI SITU YA AJG [ @LynxSupports ](https://www.telegram.dog/LynxSupports)**
+**KALO GAPAHAM SILAHKAN KESINI[ @LynxSupports ](https://www.telegram.dog/LynxSupports)**
 
 ### Features
 **INI FILE SHARING 3 BUTTON**
