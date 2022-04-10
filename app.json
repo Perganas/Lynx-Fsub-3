@@ -7,7 +7,7 @@
     "sharing"
   ],
   "repository": "https://github.com/Lynxhamster/Lynx-Fsub",
-  "logo": "https://telegra.ph/file/15078bdadfbab27d4847b.jpg",
+  "logo": "https://telegra.ph/file/a1af1d47f26915a6bc6a9.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
